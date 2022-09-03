@@ -1,0 +1,7 @@
+{
+  "name": "discord-message-counter",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "13.8.0"
+  }
+}
